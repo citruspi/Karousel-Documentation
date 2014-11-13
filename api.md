@@ -1,4 +1,4 @@
-# Karousel
+# Karousel API Documentation
 
 # Group Authentication
 
