@@ -764,11 +764,17 @@
                     "uploaded": "2009-11-10 23:00:00 +0000 UTC",
                     "copies": {
                         "thumbnail": {
-                            "resolution": "100x100",
+                            "resolution": {
+                                "width": 100,
+                                "height": 100
+                            },
                             "id": 4
                         },
                         "original": {
-                            "resolution": "6000x4000",
+                            "resolution": {
+                                "width": 6000,
+                                "height": 4000
+                            },
                             "id": 1
                         },
                         ...
